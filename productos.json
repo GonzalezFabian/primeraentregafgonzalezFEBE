@@ -1,0 +1,6 @@
+[
+    { "id": 1, "nombre": "sal", "precio": 10 },
+    { "id": 2, "nombre": "crema", "precio": 20 },
+    { "id": 3, "nombre": "queso", "precio": 30 }
+  ]
+  
